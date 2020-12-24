@@ -1,6 +1,6 @@
 {
-  "name": "calculator.js",
-  "version": "1.0.0",
+  "name": "zg-calculator",
+  "version": "0.1.1",
   "description": "利用big.js对数字加减乘除进行封装后导出对应方法",
   "main": "index.js",
   "scripts": {
